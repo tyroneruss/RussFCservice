@@ -1,0 +1,1470 @@
+County:
+Henry
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12088-FC01
+Address:
+25 Summer Walk Court Stockbridge, Georgia 30281
+Bid Amount:
+0.00
+Book Page:
+2903/324
+County:
+Henry
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-11746-FC01
+Address:
+1009 Harbor View Lane McDonough, Georgia 30252
+Bid Amount:
+0.00
+Book Page:
+14354/92
+County:
+Henry
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-05316-FC01
+Address:
+489 Glouchester Drive Locust Grove, Georgia 30248
+Bid Amount:
+0.00
+Book Page:
+010048/0124
+County:
+Paulding
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11910-FC01
+Address:
+211 Freestone Lane Dallas, Georgia 30132
+Bid Amount:
+0.00
+Book Page:
+1585/0663
+County:
+Henry
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-19743-FC01
+Address:
+165 Old Stagecoach Road Stockbridge, Georgia 30281
+Bid Amount:
+0.00
+Book Page:
+7700/130
+County:
+Lamar
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-10185-FC01
+Address:
+107 Midway Road Barnesville, Georgia 30204
+Bid Amount:
+0.00
+Book Page:
+818/206
+County:
+Paulding
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09109-FC01
+Address:
+352 Graves Road Acworth, Georgia 30101
+Bid Amount:
+0.00
+Book Page:
+2009/458
+County:
+Muscogee
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09006-FC01
+Address:
+5511 Rolling Ridge Drive Columbus, Georgia 31907
+Bid Amount:
+0.00
+Book Page:
+09304/327
+County:
+Paulding
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-06193-FC01
+Address:
+124 Brittaney Drive Dallas, Georgia 30157
+Bid Amount:
+0.00
+Book Page:
+02425/0213
+County:
+Jones
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-10079-FC01
+Address:
+443 Annies Path Gray, Georgia 31032
+Bid Amount:
+0.00
+Book Page:
+582/600
+County:
+Henry
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-11746-FC01
+Address:
+1009 Harbor View Lane McDonough, Georgia 30252
+Bid Amount:
+0.00
+Book Page:
+14354/92
+County:
+Upson
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-10621-FC01
+Address:
+203 F Street Thomaston, Georgia 30286
+Bid Amount:
+0.00
+Book Page:
+899/054
+County:
+Henry
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+15-05592-FC03
+Address:
+330 Meadowbrook Drive McDonough, Georgia 30253
+Bid Amount:
+0.00
+Book Page:
+5699/172
+County:
+Troup
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11869-FC01
+Address:
+79 Old Chipley Road Pine Mountain, Georgia 31822
+Bid Amount:
+0.00
+Book Page:
+1149/0536
+County:
+Henry
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-07697-FC02
+Address:
+520 Gristmill Lane Hampton, Georgia 30228
+Bid Amount:
+0.00
+Book Page:
+11279/266
+County:
+Henry
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-19743-FC01
+Address:
+165 Old Stagecoach Road Stockbridge, Georgia 30281
+Bid Amount:
+0.00
+Book Page:
+7700/130
+County:
+Lamar
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-10185-FC01
+Address:
+107 Midway Road Barnesville, Georgia 30204
+Bid Amount:
+0.00
+Book Page:
+818/206
+County:
+Paulding
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09109-FC01
+Address:
+352 Graves Road Acworth, Georgia 30101
+Bid Amount:
+0.00
+Book Page:
+2009/458
+County:
+Henry
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-05316-FC01
+Address:
+489 Glouchester Drive Locust Grove, Georgia 30248
+Bid Amount:
+0.00
+Book Page:
+010048/0124
+County:
+Hart
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11447-FC01
+Address:
+74 Water Oak Dell Drive Lavonia, Georgia 30553
+Bid Amount:
+0.00
+Book Page:
+587/582
+County:
+Hall
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12974-FC01
+Address:
+3814 Trotter Road Gainesville, Georgia 30506
+Bid Amount:
+0.00
+Book Page:
+6233/233
+County:
+Glynn
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-10334-FC01
+Address:
+181 Canal Road Brunswick, Georgia 31520
+Bid Amount:
+0.00
+Book Page:
+3239/457
+County:
+Fulton
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-01392-FC01
+Address:
+1070 Windfaire Place Roswell, Georgia 30076
+Bid Amount:
+0.00
+Book Page:
+55711/4
+County:
+Henry
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+15-02745-FC01
+Address:
+1027 Laurel Ridge Drive McDonough, Georgia 30252
+Bid Amount:
+0.00
+Book Page:
+008239/0260
+County:
+Gordon
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+15-01752-FC02
+Address:
+741 Plainview Road Southeast Adairsville, Georgia 30103
+Bid Amount:
+0.00
+Book Page:
+1659/310
+County:
+Gwinnett
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12189-FC01
+Address:
+2071 Windsor Lane Snellville, Georgia 30078
+Bid Amount:
+0.00
+Book Page:
+41645/0119
+County:
+Gwinnett
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12971-FC01
+Address:
+2951 Inverloch Circle Duluth, Georgia 30096
+Bid Amount:
+0.00
+Book Page:
+46106/0157
+County:
+Gwinnett
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-08026-FC01
+Address:
+1079 Glasgow Drive Northwest Lilburn, Georgia 30047
+Bid Amount:
+0.00
+Book Page:
+52201/00886
+County:
+Harris
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+13-28094-FC04
+Address:
+188 Lakeshore Drive South Hamilton, Georgia 31811
+Bid Amount:
+0.00
+Book Page:
+00948/0014
+County:
+Gwinnett
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-05060-FC01
+Address:
+2873 Five Oaks Circle Southwest Lilburn, Georgia 30047
+Bid Amount:
+0.00
+Book Page:
+9980/231
+County:
+Gwinnett
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-01687-FC01
+Address:
+3774 Lawrenceville Highway Lawrenceville, Georgia 30044
+Bid Amount:
+0.00
+Book Page:
+37818/00231
+County:
+Gordon
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-04225-FC01
+Address:
+430 Marque Lane Ranger, Georgia 30734
+Bid Amount:
+0.00
+Book Page:
+1383/102
+County:
+Gwinnett
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-08026-FC01
+Address:
+1079 Glasgow Drive Northwest Lilburn, Georgia 30047
+Bid Amount:
+0.00
+Book Page:
+52201/00886
+County:
+Gwinnett
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+14-01702-FC07
+Address:
+4629 Centurian Way View Snellville, Georgia 30039
+Bid Amount:
+0.00
+Book Page:
+49082/0212
+County:
+Henry
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-02428-FC02
+Address:
+152 Lakeshore Drive Stockbridge, Georgia 30281
+Bid Amount:
+0.00
+Book Page:
+010669/0200
+County:
+Gwinnett
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-19606-FC01
+Address:
+2643 Rice Mill Court Grayson, Georgia 30017
+Bid Amount:
+0.00
+Book Page:
+30557/220
+County:
+Gwinnett
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-05060-FC01
+Address:
+2873 Five Oaks Circle Southwest Lilburn, Georgia 30047
+Bid Amount:
+0.00
+Book Page:
+9980/231
+County:
+Fulton
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-01392-FC01
+Address:
+1070 Windfaire Place Roswell, Georgia 30076
+Bid Amount:
+0.00
+Book Page:
+55711/4
+County:
+Gordon
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+15-01752-FC02
+Address:
+741 Plainview Road Southeast Adairsville, Georgia 30103
+Bid Amount:
+0.00
+Book Page:
+1659/310
+County:
+DeKalb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11924-FC01
+Address:
+1862 Wyndale Court Chamblee, Georgia 30341
+Bid Amount:
+0.00
+Book Page:
+19010/
+County:
+Forsyth
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-03934-FC02
+Address:
+5030 Meadow Overlook Cumming, Georgia 30040
+Bid Amount:
+0.00
+Book Page:
+4085/86
+County:
+Forsyth
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11292-FC01
+Address:
+4930 Fieldstone Bend Drive Cumming, Georgia 30028
+Bid Amount:
+0.00
+Book Page:
+6345/89
+County:
+DeKalb
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-10080-FC01
+Address:
+5268 Shirewick Drive Lithonia, Georgia 30058
+Bid Amount:
+0.00
+Book Page:
+19981/719
+County:
+DeKalb
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+13-16673-FC07
+Address:
+5228 Galleon Crossing Decatur, Georgia 30035
+Bid Amount:
+0.00
+Book Page:
+15409/224
+County:
+DeKalb
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-02915-FC02
+Address:
+517 Sutters Mill Road Stone Mountain, Georgia 30087
+Bid Amount:
+0.00
+Book Page:
+14295/105
+County:
+DeKalb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11924-FC01
+Address:
+1862 Wyndale Court Chamblee, Georgia 30341
+Bid Amount:
+0.00
+Book Page:
+19010/494
+County:
+Fulton
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-10358-FC01
+Address:
+110 River North Circle Atlanta, Georgia 30328
+Bid Amount:
+0.00
+Book Page:
+49163/36
+County:
+Fayette
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11265-FC01
+Address:
+120 Cherokee Rose Lane Fayetteville, Georgia 30214
+Bid Amount:
+0.00
+Book Page:
+3374/740
+County:
+Fulton
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12282-FC01
+Address:
+335 Dartmouth Drive Southwest Atlanta, Georgia 30331
+Bid Amount:
+0.00
+Book Page:
+51536/585
+County:
+Fulton
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12768-FC01
+Address:
+325 East Paces Ferry Road Northeast #906 Atlanta, Georgia 30305
+Bid Amount:
+0.00
+Book Page:
+50932/601
+County:
+DeKalb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11924-FC01
+Address:
+1862 Wyndale Court Chamblee, Georgia 30341
+Bid Amount:
+0.00
+Book Page:
+19010/494
+County:
+Douglas
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11741-FC01
+Address:
+3014 New Haven Lane Villa Rica, Georgia 30180
+Bid Amount:
+0.00
+Book Page:
+2497/0001
+County:
+Effingham
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+15-25278-FC02
+Address:
+603 East Williams Street Rincon, Georgia 31326
+Bid Amount:
+0.00
+Book Page:
+875/359
+County:
+Fayette
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-20395-FC01
+Address:
+130 Planters Walk Fayetteville, Georgia 30214
+Bid Amount:
+0.00
+Book Page:
+2232/235
+County:
+Fayette
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11265-FC01
+Address:
+120 Cherokee Rose Lane Fayetteville, Georgia 30214
+Bid Amount:
+0.00
+Book Page:
+3374/740
+County:
+Fulton
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-10358-FC01
+Address:
+110 River North Circle Atlanta, Georgia 30328
+Bid Amount:
+0.00
+Book Page:
+49163/36
+County:
+Fulton
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12282-FC01
+Address:
+335 Dartmouth Drive Southwest Atlanta, Georgia 30331
+Bid Amount:
+0.00
+Book Page:
+51536/585
+County:
+Fulton
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12768-FC01
+Address:
+325 East Paces Ferry Road Northeast #906 Atlanta, Georgia 30305
+Bid Amount:
+0.00
+Book Page:
+50932/601
+County:
+Forsyth
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-03934-FC02
+Address:
+5030 Meadow Overlook Cumming, Georgia 30040
+Bid Amount:
+0.00
+Book Page:
+4085/86
+County:
+Coweta
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12002-FC01
+Address:
+11 Connie Trail Grantville, Georgia 30220
+Bid Amount:
+0.00
+Book Page:
+3494/796
+County:
+Dawson
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11259-FC01
+Address:
+65 Audubon Court Dawsonville, Georgia 30534
+Bid Amount:
+0.00
+Book Page:
+838/481
+County:
+DeKalb
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12858-FC01
+Address:
+1708 Southeast Fairway Hill Drive Atlanta, Georgia 30317
+Bid Amount:
+0.00
+Book Page:
+20022/441
+County:
+Clayton
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12241-FC01
+Address:
+267 Brookview Drive Riverdale, Georgia 30296
+Bid Amount:
+0.00
+Book Page:
+7964/89
+County:
+Cobb
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12982-FC01
+Address:
+2693 Barcelona Drive Southwest Marietta, Georgia 30064
+Bid Amount:
+0.00
+Book Page:
+14061/3178
+County:
+Cobb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11913-FC01
+Address:
+2033 Brannon Drive Austell, Georgia 30106
+Bid Amount:
+0.00
+Book Page:
+10712/020
+County:
+DeKalb
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12248-FC01
+Address:
+3232 Kings Bay Circle Decatur, Georgia 30034
+Bid Amount:
+0.00
+Book Page:
+24533/235
+County:
+Cobb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11387-FC01
+Address:
+456 N North Saint Marys Lane Marietta, Georgia 30064
+Bid Amount:
+0.00
+Book Page:
+14159/3506
+County:
+Cobb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-07096-FC01
+Address:
+2916 Montview Drive Marietta, Georgia 30060
+Bid Amount:
+0.00
+Book Page:
+14371/4099
+County:
+Cobb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09493-FC01
+Address:
+603 Vinings Estate Drive Southeast Mableton, Georgia 30126
+Bid Amount:
+0.00
+Book Page:
+13458/1574
+County:
+Coweta
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12002-FC01
+Address:
+11 Connie Trail Grantville, Georgia 30220
+Bid Amount:
+0.00
+Book Page:
+3494/79
+County:
+Cobb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11913-FC01
+Address:
+2033 Brannon Drive Austell, Georgia 30106
+Bid Amount:
+0.00
+Book Page:
+10712/020
+County:
+Cobb
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12087-FC01
+Address:
+5015 Bishops Row Austell, Georgia 30106
+Bid Amount:
+0.00
+Book Page:
+14085/2834
+County:
+Cobb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11387-FC01
+Address:
+456 N North Saint Marys Lane Marietta, Georgia 30064
+Bid Amount:
+0.00
+Book Page:
+14159/3506
+County:
+Cobb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-07096-FC01
+Address:
+2916 Montview Drive Marietta, Georgia 30060
+Bid Amount:
+0.00
+Book Page:
+14371/4099
+County:
+Cobb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09493-FC01
+Address:
+603 Vinings Estate Drive Southeast Mableton, Georgia 30126
+Bid Amount:
+0.00
+Book Page:
+13458/1574
+County:
+Coweta
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12002-FC01
+Address:
+11 Connie Trail Grantville, Georgia 30220
+Bid Amount:
+0.00
+Book Page:
+3494/796
+County:
+Dawson
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11259-FC01
+Address:
+65 Audubon Court Dawsonville, Georgia 30534
+Bid Amount:
+0.00
+Book Page:
+838/481
+County:
+DeKalb
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-12248-FC01
+Address:
+3232 Kings Bay Circle Decatur, Georgia 30034
+Bid Amount:
+0.00
+Book Page:
+24533/235
+County:
+DeKalb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+14-04198-FC05
+Address:
+4265 Donna Way Lithonia, Georgia 30038
+Bid Amount:
+0.00
+Book Page:
+22151/367
+County:
+Clayton
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11411-FC01
+Address:
+1362 Diplomat Drive Riverdale, Georgia 30296
+Bid Amount:
+0.00
+Book Page:
+06483/00045
+County:
+Carroll
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-19136-FC02
+Address:
+24 Lakeshore Drive Bowdon, Georgia 30108
+Bid Amount:
+0.00
+Book Page:
+4307/333
+County:
+Bibb
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-04639-FC01
+Address:
+224 High Ridge Court Macon, Georgia 31220
+Bid Amount:
+0.00
+Book Page:
+7461/38
+County:
+Cherokee
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+14-17203-FC01
+Address:
+4119 Huntcliff Drive Woodstock, Georgia 30189
+Bid Amount:
+0.00
+Book Page:
+10448/406
+County:
+Bryan
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09208-FC01
+Address:
+90 Joshua Circle Ellabell, Georgia 31308
+Bid Amount:
+0.00
+Book Page:
+1193/0696
+County:
+Clayton
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11411-FC01
+Address:
+1362 Diplomat Drive Riverdale, Georgia 30296
+Bid Amount:
+0.00
+Book Page:
+06483/00045
+County:
+Camden
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-21156-FC02
+Address:
+334 Brooklet Circle Saint Marys, Georgia 31558
+Bid Amount:
+0.00
+Book Page:
+1655/00579
+County:
+Bulloch
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09013-FC01
+Address:
+12 Meadow Drive Statesboro, Georgia 30461
+Bid Amount:
+0.00
+Book Page:
+1163/343
+County:
+Chatham
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09270-FC01
+Address:
+113 Royal Lane Pooler, Georgia 31322
+Bid Amount:
+0.00
+Book Page:
+346C/656
+County:
+Chatham
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-01346-FC02
+Address:
+217 Park View Court Savannah, Georgia 31419
+Bid Amount:
+0.00
+Book Page:
+310 M/724
+County:
+Chatham
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+15-25555-FC03
+Address:
+1940 New Mexico Street Savannah, Georgia 31404
+Bid Amount:
+0.00
+Book Page:
+204 X/423
+County:
+Camden
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-21156-FC02
+Address:
+334 Brooklet Circle Saint Marys, Georgia 31558
+Bid Amount:
+0.00
+Book Page:
+1655/00579
+County:
+Chatham
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09270-FC01
+Address:
+113 Royal Lane Pooler, Georgia 31322
+Bid Amount:
+0.00
+Book Page:
+346C/656
+County:
+Chatham
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-11516-FC01
+Address:
+124 Yellow Jasmine Court Pooler, Georgia 31322
+Bid Amount:
+0.00
+Book Page:
+377 Y/183
+County:
+Chatham
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-01346-FC02
+Address:
+217 Park View Court Savannah, Georgia 31419
+Bid Amount:
+0.00
+Book Page:
+310 M/724
+County:
+Bryan
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-09208-FC01
+Address:
+90 Joshua Circle Ellabell, Georgia 31308
+Bid Amount:
+0.00
+Book Page:
+1193/0696
+County:
+Clayton
+Sale Date:
+11/7/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+17-07292-FC01
+Address:
+6213 West Fayetteville Road Riverdale, Georgia 30296
+Bid Amount:
+0.00
+Book Page:
+07808/00096
+County:
+Chatham
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+15-25555-FC03
+Address:
+1940 New Mexico Street Savannah, Georgia 31404
+Bid Amount:
+0.00
+Book Page:
+204 X/423
+County:
+Brantley
+Sale Date:
+10/3/2017 12:00:00 AM
+State:
+GA
+Court SP #:
+Case #:
+16-20305-FC01
+Address:
+12144 Brantley Avenue North Hoboken, Georgia 31542
+Bid Amount:
+0.00
+Book Page:
+505/61

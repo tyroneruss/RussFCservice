@@ -1,0 +1,141 @@
+Bartow	08/01/17	Not Available Yet	GA	 	17-05244-FC01	412 Chippewa Drive Acworth, Georgia 30102	2857/80
+Bibb	08/01/17	Not Available Yet	GA	 	17-07704-FC01	4547 Pinedale Drive Macon, Georgia 31206	5921/365
+Bibb	08/01/17	Not Available Yet	GA	 	17-07599-FC01	116 Shetland Pines Macon, Georgia 31216	8325/40
+Carroll	08/01/17	Not Available Yet	GA	 	17-07757-FC01	7411 Golfers Point Villa Rica, Georgia 30180	5283/124
+Carroll	08/01/17	Not Available Yet	GA	 	15-22756-FC03	8188 North Pine Cone Drive Villa Rica, Georgia 30180	4608/322
+Carroll	08/01/17	Not Available Yet	GA	 	17-09245-FC01	60 Pope Road Villa Rica, Georgia 30180	4224/135
+Chatham	08/01/17	Not Available Yet	GA	 	17-08936-FC01	509 Stuart Court Savannah, Georgia 31405	354G/763
+Chatham	08/01/17	Not Available Yet	GA	 	17-08550-FC01	10 Reed Grass Lane Savannah, Georgia 31405	369G/071
+Chatham	08/01/17	Not Available Yet	GA	 	17-02513-FC01	126 Greenbriar Court Savannah, Georgia 31419	396C/005
+Cherokee	08/01/17	Not Available Yet	GA	 	16-20511-FC02	3890 Holbrook Campground Rd. Alpharetta, Georgia 30004	10652/1
+Cherokee	08/01/17	Not Available Yet	GA	 	16-11228-FC01	304 White Oak Way Canton, Georgia 30114	5598/266
+Cherokee	08/01/17	Not Available Yet	GA	 	17-09373-FC01	304 Golden Court Canton, Georgia 30114	8294/465
+Clayton	08/01/17	Not Available Yet	GA	 	17-09277-FC01	8060 Woods Lane Jonesboro, Georgia 30236	10702/183
+Clayton	08/01/17	Not Available Yet	GA	 	17-07123-FC01	8661 Twin Oaks Drive Jonesboro, Georgia 30236	09047/00351
+Cobb	08/01/17	Not Available Yet	GA	 	16-17709-FC01	4501 Pembrooke Way Powder Springs, Georgia 30127	14361/819
+Cobb	08/01/17	Not Available Yet	GA	 	15-26340-FC03	3602 Homewood Drive Powder Springs, Georgia 30127	14779/933
+Cobb	08/01/17	Not Available Yet	GA	 	14-06084-FC03	1614 Barrier Road Marietta, Georgia 30066	14639/1672
+Cobb	08/01/17	Not Available Yet	GA	 	14-22307-FC02	1699 Harlington Road Smyrna, Georgia 30082	14549/4614
+Cobb	08/01/17	Not Available Yet	GA	 	14-29542-FC04	1180 Fawn Meadow Drive Powder Springs, Georgia 30127	14502/2819
+Cobb	08/01/17	Not Available Yet	GA	 	15-19125-FC02	384 Teague Drive Northwest Kennesaw, Georgia 30152	15110/2053-2062
+Cobb	08/01/17	Not Available Yet	GA	 	17-08460-FC01	3100 Delacorte Drive Acworth, Georgia 30101	14243/1408
+Colquitt	08/01/17	Not Available Yet	GA	 	16-19987-FC01	360 Edwards Street Moultrie, Georgia 31768	0976/0230
+Coweta	08/01/17	Not Available Yet	GA	 	16-12583-FC02	110 Greentree Drive Newnan, Georgia 30265	3415/328
+Coweta	08/01/17	Not Available Yet	GA	 	15-19080-FC01	160 Little Creek Drive Sharpsburg, Georgia 30277	02585/064
+Dawson	08/01/17	Not Available Yet	GA	 	16-02255-FC03	131 Bent Ridge Drive N Dawsonville, Georgia 30534	589/268
+Decatur	08/01/17	Not Available Yet	GA	 	16-03883-FC03	1108 Byron Street Bainbridge, Georgia 39817	X 25/100
+DeKalb	08/01/17	Not Available Yet	GA	 	15-24266-FC03	4419 Boatmans Cove Stone Mountain, Georgia 30083	24611/658
+DeKalb	08/01/17	Not Available Yet	GA	 	16-10687-FC02	509 Stonewood Drive Stone Mountain, Georgia 30087	24588/157
+DeKalb	08/01/17	Not Available Yet	GA	 	13-08855-FC08	1934 North Akin Drive Northeast Atlanta, Georgia 30345	19720/158
+DeKalb	08/01/17	Not Available Yet	GA	 	16-20020-FC01	1593 Elm Ridge Way Stone Mountain, Georgia 30083	14881/430
+DeKalb	08/01/17	Not Available Yet	GA	 	16-20112-FC02	3535 Morton's Landing Drive Ellenwood, Georgia 30294	18632/388
+DeKalb	08/01/17	Not Available Yet	GA	 	16-21357-FC02	2139 Cypress Place Ellenwood, Georgia 30294	18861/785
+DeKalb	08/01/17	Not Available Yet	GA	 	17-04719-FC02	2062 East Drive Decatur, Georgia 30032	15765/198
+DeKalb	08/01/17	Not Available Yet	GA	 	17-08348-FC01	4482 Thurgood Estates Drive Ellenwood, Georgia 30294	21820/569
+Dougherty	08/01/17	Not Available Yet	GA	 	17-01303-FC01	1505 Hoover Street Albany, Georgia 31707	3769/1
+Dougherty	08/01/17	Not Available Yet	GA	 	14-17033-FC08	2700 Pine Valley Road Albany, Georgia 31707	3474/4
+Fayette	08/01/17	Not Available Yet	GA	 	16-17582-FC02	190 Ashland Way Fayetteville, Georgia 30214	3959/358
+Fayette	08/01/17	Not Available Yet	GA	 	14-12951-FC04	108 Keswick Manor Court Tyrone, Georgia 30290	2497/540
+Forsyth	08/01/17	Not Available Yet	GA	 	17-08164-FC01	1730 Township Circle Alpharetta, Georgia 30004	5535/341
+Forsyth	08/01/17	Not Available Yet	GA	 	16-21423-FC01	6650 Flagstone Court Cumming, Georgia 30028	7588/303
+Fulton	08/01/17	Not Available Yet	GA	 	17-08989-FC01	5310 Mount Vernon Parkway Atlanta, Georgia 30327	49774/86
+Fulton	08/01/17	Not Available Yet	GA	 	17-09098-FC01	6755 Jules Trace Palmetto, Georgia 30268	55354/699
+Fulton	08/01/17	Not Available Yet	GA	 	16-17452-FC02	833 Rainsong Way Atlanta, Georgia 30331	54779/231
+Fulton	08/01/17	Not Available Yet	GA	 	16-19912-FC01	4701 Flat Shoals Road #57H Union City, Georgia 30291	45983/588
+Fulton	08/01/17	Not Available Yet	GA	 	15-09846-FC04	3203 Lenox Road Northeast, Apartment 20 Atlanta, Georgia 30324	36702/94
+Gwinnett	08/01/17	Not Available Yet	GA	 	16-16990-FC01	585 Sweet Creek Drive Lawrenceville, Georgia 30044	37716/0111
+Gwinnett	08/01/17	Not Available Yet	GA	 	15-22770-FC02	2638 Cove Way Lawrenceville, Georgia 30044	46123/129
+Gwinnett	08/01/17	Not Available Yet	GA	 	16-01744-FC03	758 Burwood Park Drive Lawrenceville, Georgia 30043	48466/0072
+Gwinnett	08/01/17	Not Available Yet	GA	 	14-13962-FC02	1550 Somerset Vale Court Lawrenceville, Georgia 30044	42197/0018
+Gwinnett	08/01/17	Not Available Yet	GA	 	17-06602-FC02	134 Ventnor Court Lawrenceville, Georgia 30046	38942/0043
+Gwinnett	08/01/17	Not Available Yet	GA	 	17-06953-FC01	2449 Millbank Court Lawrenceville, Georgia 30043	53853/0231
+Gwinnett	08/01/17	Not Available Yet	GA	 	17-08368-FC01	613 Dunkirk Court Lawrenceville, Georgia 30046	46645/00848
+Habersham	08/01/17	Not Available Yet	GA	 	17-09272-FC01	634 Dooley Road Clarkesville, Georgia 30523	428/78
+Harris	08/01/17	Not Available Yet	GA	 	17-05435-FC01	2139 Alabama Road Waverly Hall, Georgia 31831	01426/0060
+Henry	08/01/17	Not Available Yet	GA	 	14-25533-FC01	423 Old Ivy Path McDonough, Georgia 30253	11466/211
+Houston	08/01/17	Not Available Yet	GA	 	14-15201-FC01	308 Silver Circle Warner Robins, Georgia 31093	5179/217
+Houston	08/01/17	Not Available Yet	GA	 	17-09503-FC01	101 Jessica Court Byron, Georgia 31008	4479/334
+Jenkins	08/01/17	Not Available Yet	GA	 	16-17597-FC02	4019 River Trail Millen, Georgia 30442	4 E/493
+Jones	08/01/17	Not Available Yet	GA	 	17-07328-FC01	410 East Virginia Lane Macon, Georgia 31217	0505/0250
+Liberty	08/01/17	Not Available Yet	GA	 	13-25749-FC01	617 Pineview Court Hinesville, Georgia 31313	01484/00065
+Lowndes	08/01/17	Not Available Yet	GA	 	17-09504-FC01	4017 Foxborough Boulevard Valdosta, Georgia 31602	4408/101
+Monroe	08/01/17	Not Available Yet	GA	 	17-04576-FC01	37 Fawn Drive Juliette, Georgia 31046	679/0062
+Muscogee	08/01/17	Not Available Yet	GA	 	17-08455-FC01	3951 Austin Drive Columbus, Georgia 31909	6453/134
+Muscogee	08/01/17	Not Available Yet	GA	 	17-08512-FC01	10315 Greenfield Drive Midland, Georgia 31820	09838/92
+Muscogee	08/01/17	Not Available Yet	GA	 	17-08344-FC01	1640 Garrard Street Columbus, Georgia 31901	09732/123
+Newton	08/01/17	Not Available Yet	GA	 	14-18577-FC04	85 Fairclift Drive Covington, Georgia 30016	2351/257
+Paulding	08/01/17	Not Available Yet	GA	 	14-13482-FC04	180 Ashwood Drive Dallas, Georgia 30132	789/822
+Polk	08/01/17	Not Available Yet	GA	 	16-01785-FC01	655 Woodland Road Cedartown, Georgia 30125	994/226
+Richmond	08/01/17	Not Available Yet	GA	 	16-20668-FC01	3529 Windermere Drive Hephzibah, Georgia 30815	01204/1507
+Richmond	08/01/17	Not Available Yet	GA	 	17-07121-FC01	3603 Jonathan Circle Augusta, Georgia 30906	01347/1726
+Richmond	08/01/17	Not Available Yet	GA	 	17-07905-FC01	2410 Belfair Lakes Drive Augusta, Georgia 30909	01187/2578
+Rockdale	08/01/17	Not Available Yet	GA	 	16-12808-FC01	4144 Union Church Road McDonough, Georgia 30252	5689/140
+Troup	08/01/17	Not Available Yet	GA	 	17-07588-FC01	918 Greenville Street LaGrange, Georgia 30241	01627/0851
+Walker	08/01/17	Not Available Yet	GA	 	16-17578-FC01	804 Gordon Street Chickamauga, Georgia 30707	1089/590
+Walton	08/01/17	Not Available Yet	GA	 	16-07959-FC02	2869 A D Farmer Road Good Hope, Georgia 30641	750/140
+Whitfield	08/01/17	Not Available Yet	GA	 	17-08154-FC01	1010 Doris Street Dalton, Georgia 30721	4942/0255
+Bartow	09/05/17	Not Available Yet	GA	 	16-05672-FC02	439 East Valley Road Northeast Rydal, Georgia 30171	1988/794
+Brooks	09/05/17	Not Available Yet	GA	 	17-07277-FC01	10661 Adel Highway Morven, Georgia 31638	00758/0084
+Carroll	09/05/17	Not Available Yet	GA	 	17-08653-FC01	112 Hillcrest Road Carrollton, Georgia 30117	4715/030
+Chatham	09/05/17	Not Available Yet	GA	 	17-09356-FC01	37 Herons Nest Savannah, Georgia 31410	172 U/675
+Chatham	09/05/17	Not Available Yet	GA	 	16-01462-FC02	1402 Solomon Avenue Tybee Island, Georgia 31328	284 L/363
+Chatham	09/05/17	Not Available Yet	GA	 	17-01393-FC02	122 Hampstead Avenue Savannah, Georgia 31405	342M/147
+Chatham	09/05/17	Not Available Yet	GA	 	16-17567-FC01	1234 Homer City Way Pooler, Georgia 31322	782/385
+Chatham	09/05/17	Not Available Yet	GA	 	16-20163-FC01	4 Hightide Lane Savannah, Georgia 31410	328 N/622
+Clayton	09/05/17	Not Available Yet	GA	 	17-08865-FC01	8323 Reinosa Way Jonesboro, Georgia 30236	06998/00061
+Cobb	09/05/17	Not Available Yet	GA	 	14-16604-FC03	1337 Hamilton Road Northwest Kennesaw, Georgia 30152	14679/687
+Cobb	09/05/17	Not Available Yet	GA	 	15-10230-FC05	4675 Oberlin Way Marietta, Georgia 30068	14183/4409
+Cobb	09/05/17	Not Available Yet	GA	 	17-08923-FC01	587 Montview Lane Southwest Marietta, Georgia 30060	13963/2249
+DeKalb	09/05/17	Not Available Yet	GA	 	14-26310-FC04	1846 Northwick Place Lithonia, Georgia 30058	15431/708
+DeKalb	09/05/17	Not Available Yet	GA	 	14-13936-FC07	5347 Winding Glen Drive Lithonia, Georgia 30038	10559/623
+DeKalb	09/05/17	Not Available Yet	GA	 	17-08933-FC01	1568 Hidden Hills Parkway Stone Mountain, Georgia 30088	8313/227
+DeKalb	09/05/17	Not Available Yet	GA	 	17-09446-FC01	2247 Cherring Lane Dunwoody, Georgia 30338	22035/27
+Dougherty	09/05/17	Not Available Yet	GA	 	17-10042-FC01	406 Persimmon Drive Albany, Georgia 31705	02556/0047
+Dougherty	09/05/17	Not Available Yet	GA	 	15-23936-FC03	637 Marshall Lane Albany, Georgia 31701	3736/1-12
+Douglas	09/05/17	Not Available Yet	GA	 	17-05639-FC01	6321 South Skyline Drive Douglasville, Georgia 30135	3383/450
+Fayette	09/05/17	Not Available Yet	GA	 	17-05919-FC01	180 Princeton Trail Fayetteville, Georgia 30214	2899/487
+Fayette	09/05/17	Not Available Yet	GA	 	15-22888-FC02	105 Redfield Trace Fayetteville, Georgia 30214	2801/547
+Floyd	09/05/17	Not Available Yet	GA	 	17-08972-FC01	12 Marlynn Drive Northeast Rome, Georgia 30161	1669/0852
+Forsyth	09/05/17	Not Available Yet	GA	 	17-05902-FC01	2220 Rose Walk Drive Alpharetta, Georgia 30005	7464/433
+Franklin	09/05/17	Not Available Yet	GA	 	17-10472-FC01	1310 Gumlog Road Lavonia, Georgia 30553	574/117
+
+1	2	3
+County	Sale Date & Time	Bid Amount	State Code	Court SP#	Case Number	Address	Book Page
+Fulton	09/05/17	Not Available Yet	GA	 	17-10088-FC01	335 Buckingham Lane Fairburn, Georgia 30213	44827/41
+Fulton	09/05/17	Not Available Yet	GA	 	17-10134-FC01	3207 Watsons Bend Alpharetta, Georgia 30004	41012/434
+Fulton	09/05/17	Not Available Yet	GA	 	17-10352-FC01	3420 Newgold Trace 1 Union City, Georgia 30291	44603/602
+Fulton	09/05/17	Not Available Yet	GA	 	17-09375-FC01	200 Spalding Hills Court Sandy Springs, Georgia 30350	41983/186
+Fulton	09/05/17	Not Available Yet	GA	 	17-08928-FC01	3147 Daleview Way Southwest Atlanta, Georgia 30331	44262/116
+Fulton	09/05/17	Not Available Yet	GA	 	17-08901-FC01	1100 Camden Court Northwest #1507 Atlanta, Georgia 30327	44146/137
+Fulton	09/05/17	Not Available Yet	GA	 	17-08915-FC01	530 Putters Court Alpharetta, Georgia 30022	49075/333
+Fulton	09/05/17	Not Available Yet	GA	 	17-09233-FC01	340 Wentworth Trail Alpharetta, Georgia 30022	35559/469
+Fulton	09/05/17	Not Available Yet	GA	 	13-18103-FC05	3347 Sable Run Road Atlanta, Georgia 30349	36199/282
+Fulton	09/05/17	Not Available Yet	GA	 	15-00629-FC02	7200 Buck Creek Drive Fairburn, Georgia 30213	47240/195
+Fulton	09/05/17	Not Available Yet	GA	 	15-09459-FC03	1539 Boulevard Lorraine Atlanta, Georgia 30311	37340/462
+Fulton	09/05/17	Not Available Yet	GA	 	16-09022-FC02	635 Birchberry Terrace Southwest Atlanta, Georgia 30331	51249/135
+Gwinnett	09/05/17	Not Available Yet	GA	 	16-07943-FC02	5079 Harley Beth Drive Snellville, Georgia 30039	48079/0696
+Gwinnett	09/05/17	Not Available Yet	GA	 	15-15179-FC03	3490 Pierce Arrow Circle Suwanee, Georgia 30024	50674/0637
+Gwinnett	09/05/17	Not Available Yet	GA	 	17-03874-FC02	4097 Rocky Ledge Way Snellville, Georgia 30039	44412/0175
+Gwinnett	09/05/17	Not Available Yet	GA	 	17-10045-FC01	2820 Langford Commons Drive Norcross, Georgia 30071	31102/00080
+Hart	09/05/17	Not Available Yet	GA	 	17-09583-FC01	1993 Oak Crest Drive Hartwell, Georgia 30643	413/745
+Henry	09/05/17	Not Available Yet	GA	 	17-10184-FC01	223 Kensington Trace Stockbridge, Georgia 30281	8850/235
+Henry	09/05/17	Not Available Yet	GA	 	17-08992-FC01	400 Canoga Court McDonough, Georgia 30253	7106/11
+Henry	09/05/17	Not Available Yet	GA	 	13-16765-FC03	365 Rothaus Court Stockbridge, Georgia 30281	6063/293
+Houston	09/05/17	Not Available Yet	GA	 	17-08988-FC01	101 Woodland Court Warner Robins, Georgia 31088	4487/319
+Lowndes	09/05/17	Not Available Yet	GA	 	15-24353-FC03	4440 McMullen Drive Valdosta, Georgia 31606	2764/31
+Lowndes	09/05/17	Not Available Yet	GA	 	17-10046-FC01	3907 Cross Creek Trail Valdosta, Georgia 31605	04294/00072
+Murray	09/05/17	Not Available Yet	GA	 	17-10353-FC01	1027 Fort Mountain Drive Chatsworth, Georgia 30705	634/152
+Muscogee	09/05/17	Not Available Yet	GA	 	17-09445-FC01	2828 Bamboo Street Columbus, Georgia 31906	3572/237
+Muscogee	09/05/17	Not Available Yet	GA	 	16-18034-FC01	4820 Allegheny Drive Columbus, Georgia 31909	8176/130
+Muscogee	09/05/17	Not Available Yet	GA	 	17-05927-FC01	1654 Celeste Drive Columbus, Georgia 31907	09269/316
+Muscogee	09/05/17	Not Available Yet	GA	 	16-01816-FC02	4048 Pickering Drive Columbus, Georgia 31907	10781/66
+Paulding	09/05/17	Not Available Yet	GA	 	17-07516-FC01	264 Muskogee Crossing Dallas, Georgia 30132	03613/0552
+Paulding	09/05/17	Not Available Yet	GA	 	17-09652-FC01	424 Due West Place Dallas, Georgia 30157	2031/0065
+Peach	09/05/17	Not Available Yet	GA	 	17-08029-FC01	301 Cumberland Drive Byron, Georgia 31008	548/349
+Pike	09/05/17	Not Available Yet	GA	 	15-07470-FC03	270 Wallie Road Molena, Georgia 30258	756/24
+Polk	09/05/17	Not Available Yet	GA	 	16-19831-FC02	2100 Johnson Lake Road Cedartown, Georgia 30125	1371/075
+Richmond	09/05/17	Not Available Yet	GA	 	17-07388-FC01	2337 Travis Road Augusta, Georgia 30906	01358/0440
+Richmond	09/05/17	Not Available Yet	GA	 	13-25142-FC03	1309 York Drive Grovetown, Georgia 30813	01376/0337
+Rockdale	09/05/17	Not Available Yet	GA	 	17-09431-FC01	5140 Whispering Pines Lane Conyers, Georgia 30012	4526/154
+Talbot	09/05/17	Not Available Yet	GA	 	17-08116-FC01	23 Wisteria Circle Waverly Hall, Georgia 31831	00300/0021
+Walker	09/05/17	Not Available Yet	GA	 	16-12668-FC02	718 Walker Avenue Rossville, Georgia 30741	1350/663

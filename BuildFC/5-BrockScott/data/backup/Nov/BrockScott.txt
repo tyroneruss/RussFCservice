@@ -1,0 +1,840 @@
+County:
+Brooks
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-07277-FC02
+Address:
+10661 Adel Highway Morven, Georgia 31638
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+00758/0084
+County:
+Cherokee
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+16-20459-FC01
+Address:
+117 Windsong Trail Canton, Georgia 30114
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+11845/216
+County:
+Twiggs
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-14403-FC01
+Address:
+6584 Old Gordon Road Dry Branch, Georgia 31020
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+8A/264
+County:
+Gwinnett
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-14367-FC01
+Address:
+1545 Water Shine Way Snellville, Georgia 30078
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+47579/640
+County:
+Madison
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-11311-FC01
+Address:
+1622 Barwick Hill Road Comer, Georgia 30629
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+0616/101
+County:
+Forsyth
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-03934-FC02
+Address:
+5030 Meadow Overlook Cumming, Georgia 30040
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+4085/86
+County:
+DeKalb
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13643-FC01
+Address:
+2786 Toney Drive Decatur, Georgia 30032
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+16747/667
+County:
+Walton
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-09113-FC01
+Address:
+4260 Grady Smith Road Loganville, Georgia 30052
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+03301/0016
+County:
+Spalding
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+16-19637-FC01
+Address:
+307 Cedardale Drive Griffin, Georgia 30224
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+3317/217
+County:
+Clayton
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-11257-FC01
+Address:
+640 Pineridge Drive Forest Park, Georgia 30297
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+05751/00120
+County:
+Cherokee
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+14-17936-FC08
+Address:
+203 Red Fox Court Canton, Georgia 30114
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+7318/149
+County:
+Clayton
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13999-FC01
+Address:
+3456 Ashford Loop Ellenwood, Georgia 30294
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+9405/321
+County:
+Clayton
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-07292-FC01
+Address:
+6213 West Fayetteville Road Riverdale, Georgia 30296
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+07808/00096
+County:
+Peach
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-14216-FC01
+Address:
+4012 Buckeye Road Fort Valley, Georgia 31030
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+345/173
+County:
+Gwinnett
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-12971-FC01
+Address:
+2951 Inverloch Circle Duluth, Georgia 30096
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+46106/0157
+County:
+Fulton
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-09110-FC01
+Address:
+1148 Oakland Drive Southwest Atlanta, Georgia 30310
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+46542/595
+County:
+Cobb
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+14-15927-FC05
+Address:
+2612 Wicklow Way Powder Springs, Georgia 30127
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+13682/4024
+County:
+Carroll
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-12394-FC01
+Address:
+254 Hitchcock Drive Villa Rica, Georgia 30180
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+1197/581
+County:
+Chatham
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+16-07283-FC03
+Address:
+124 Jacquelyn Drive Savannah, Georgia 31406
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+149-V/641
+County:
+Carroll
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13560-FC01
+Address:
+136 Berkley Drive Villa Rica, Georgia 30180
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+2219/184
+County:
+Monroe
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13227-FC01
+Address:
+2998 Stokes Store Road Forsyth, Georgia 31029
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+1544/141
+County:
+Gwinnett
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13930-FC01
+Address:
+475 Highland Gate Circle Suwanee, Georgia 30024
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+28642/0196
+County:
+Fayette
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+14-12951-FC05
+Address:
+108 Keswick Manor Court Tyrone, Georgia 30290
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+2497/540
+County:
+Chatham
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+16-07283-FC03
+Address:
+124 Jacquelyn Drive Savannah, Georgia 31406
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+149-V/641
+County:
+Cherokee
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+14-17936-FC08
+Address:
+203 Red Fox Court Canton, Georgia 30114
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+7318/149
+County:
+Peach
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-14216-FC01
+Address:
+4012 Buckeye Road Fort Valley, Georgia 31030
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+345/173
+County:
+Laurens
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-14051-FC01
+Address:
+1022 Maid Marian Lane Dublin, Georgia 31021
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+1974/217
+County:
+Clayton
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13999-FC01
+Address:
+3456 Ashford Loop Ellenwood, Georgia 30294
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+9405/321
+County:
+Douglas
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-11643-FC01
+Address:
+4479 Cabinwood Turn Douglasville, Georgia 30135
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+2250/813
+County:
+Gwinnett
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-14367-FC01
+Address:
+1545 Water Shine Way Snellville, Georgia 30078
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+47579/640
+County:
+Walton
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-09113-FC01
+Address:
+4260 Grady Smith Road Loganville, Georgia 30052
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+03301/0016
+County:
+Cobb
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13649-FC01
+Address:
+2675 Gray Road Southeast Smyrna, Georgia 30082
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+13957/799
+County:
+Fulton
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-09110-FC01
+Address:
+1148 Oakland Drive Southwest Atlanta, Georgia 30310
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+46542/595
+County:
+Polk
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+14-15004-FC07
+Address:
+112 Mississippi Drive Cedartown, Georgia 30125
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+1107/500
+County:
+Douglas
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+15-22479-FC04
+Address:
+8135 Colquitt Street Douglasville, Georgia 30134
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+2731/335-346
+County:
+Brooks
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-07277-FC02
+Address:
+10661 Adel Highway Morven, Georgia 31638
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+00758/0084
+County:
+Gwinnett
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13577-FC01
+Address:
+915 Sweet Mill Lane Lawrenceville, Georgia 30045
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+48350/0038
+County:
+DeKalb
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13643-FC01
+Address:
+2786 Toney Drive Decatur, Georgia 30032
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+16747/667
+County:
+Coweta
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-14054-FC01
+Address:
+25 Kildare Court Newnan, Georgia 30263
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+3283/37
+County:
+Decatur
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+16-10160-FC01
+Address:
+161 Old Bainbridge Road Brinson, Georgia 39825
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+243/676
+County:
+Jones
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+15-24286-FC02
+Address:
+2892 New Clinton Road Macon, Georgia 31211
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+635/98
+County:
+Cobb
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+14-15927-FC05
+Address:
+2612 Wicklow Way Powder Springs, Georgia 30127
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+13682/4024
+County:
+Carroll
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-12394-FC01
+Address:
+254 Hitchcock Drive Villa Rica, Georgia 30180
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+1197/581
+County:
+Spalding
+Sale Date:
+11/07/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13668-FC01
+Address:
+33 Hollonville Road Brooks, Georgia 30205
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+1998/225
+County:
+Newton
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+14-18577-FC05
+Address:
+85 Fairclift Drive Covington, Georgia 30016
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+2351/257
+County:
+Barrow
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13972-FC01
+Address:
+722 Fletcher Drive Winder, Georgia 30680
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+1423/0852
+County:
+Appling
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+17-14208-FC01
+Address:
+174 Leggett Extension Road Baxley, Georgia 31513
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+498/488
+County:
+Carroll
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13723-FC01
+Address:
+70 Shady Court Carrollton, Georgia 30116
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+4658/156
+County:
+Liberty
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+17-09962-FC02
+Address:
+125 Governors Boulevard Hinesville, Georgia 31313
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+01739/00758
+County:
+DeKalb
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+17-10515-FC01
+Address:
+828 Martin Road Stone Mountain, Georgia 30088
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+23074/1
+County:
+DeKalb
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+16-06739-FC01
+Address:
+1169 Ivy Court Decatur, Georgia 30033
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+21519/779
+County:
+Carroll
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+17-09118-FC01
+Address:
+132 West White Street Carrollton, Georgia 30117
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+1996/332
+County:
+Hall
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+16-03336-FC01
+Address:
+3409 The Trail Road Gainesville, Georgia 30501
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+6242/471
+County:
+Fulton
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+17-09111-FC01
+Address:
+2039 Browns Mill Road Southeast Atlanta, Georgia 30315
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+33240/146
+County:
+Habersham
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+15-23675-FC01
+Address:
+284 Third Street Cornelia, Georgia 30531
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+814/997-1013
+County:
+Rockdale
+Sale Date:
+12/05/2017
+State:
+GA
+Court SP #:
+Case #:
+17-13403-FC01
+Address:
+1712 Greystone Trace Southeast Conyers, Georgia 30013
+Opening Bid Amount:
+Not Available Yet
+Book Page:
+4080/4

@@ -1,0 +1,14 @@
+Step 1:
+Copy counties data from the website ForeclosureBidList.com in 
+the folder “data” and include each text file with the county name. 
+
+Ex. Dekalb -> Dekalb.txt 
+data/September/Dekalb.txt
+
+Running the following scripts: BuildAggrlist and CreateFClist
+
+C:>python BuildAggrlist.py [month folder] [Sale date]
+
+Ex:
+C:>python BuildAggrlist.py December 12/6/2016
+

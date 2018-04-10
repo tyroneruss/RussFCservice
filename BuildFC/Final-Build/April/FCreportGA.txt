@@ -1,0 +1,1 @@
+Auction|380|https://www.Auction.com|./1-Auction/build/April/fc-final-Aug.csv

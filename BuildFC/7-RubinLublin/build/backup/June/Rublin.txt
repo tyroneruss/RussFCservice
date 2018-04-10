@@ -1,0 +1,255 @@
+06/06/2017	BMT-14-05867-7	3324 Whitmore Court	Acworth	30101	Cobb	Go to Auction.com
+06/06/2017	BAC-17-01763-1	4115 Falcon Shores Ct Nw	Acworth	30101	Cobb	Go to Auction.com
+06/06/2017	REG-16-07997-1	216 Bradley Rd Se	Adairsville	30103	Gordon	Bid Not Available
+06/06/2017	BMT-16-03774-6	1106w Gordon Ave	Albany	31701	Dougherty	Not Available
+06/06/2017	PNY-16-01190-5	155 Wood Dr	Albany	31701	Lee	Go to Auction.com
+06/06/2017	QKN-14-03629-8	1706 Devon Dr	Albany	31721	Dougherty	Go to Auction.com
+06/06/2017	PUF-17-02183-1	4870 Hunters Oaks Ln	Alpharetta	30009	Fulton	Go to Auction.com
+06/06/2017	REG-17-00657-1	471 N Bellview Road	Aragon	30104	Polk	Bid Not Available
+06/06/2017	SPS-17-00134-1	450 Club Drive	Athens	30607	Clarke	Not Available
+06/06/2017	BAC-17-02027-1	1189 Beech Valley Road Ne	Atlanta	30306	DeKalb	Go to Auction.com
+06/06/2017	BVC-17-00514-1	1492 La Vista Rd	Atlanta	30324	DeKalb	Go to Auction.com
+06/06/2017	CMS-15-01223-8	1615 Barrett Dr Nw	Atlanta	30318	Fulton	Go to hubzu.com
+06/06/2017	BVC-17-01619-1	1872 Bonnieview St Sw	Atlanta	30310	Fulton	Not Available
+06/06/2017	PUF-17-01998-1	2519 Black Forest Trl Sw	Atlanta	30331	Fulton	Go to Auction.com
+06/06/2017	SPS-16-08140-2	2520 Ridgewood Road	Atlanta	30318	Fulton	Not Available
+06/06/2017	SPS-17-01923-1	2622 Ozella Pl Sw	Atlanta	30331	Fulton	Not Available
+06/06/2017	BVC-16-06643-1	2766 Alston Dr Se	Atlanta	30317	DeKalb	Not Available
+06/06/2017	BAC-17-00890-1	3106 Queen Anne Ct	Atlanta	30350-0000	Fulton	Go to Auction.com
+06/06/2017	BMT-17-00180-1	3120 Donald Lee Hollower	Atlanta	30318	Fulton	Not Available
+06/06/2017	FREM-16-04178-1	677 Providence Pl Sw	Atlanta	30331	Fulton	Go to realtybid.com
+06/06/2017	BAC-17-00247-1	816 Berkeley Avenue Nw	Atlanta	30318	Fulton	Go to Auction.com
+06/06/2017	QKN-16-05961-3	2031 Boykin Rd	Augusta	30906	Richmond	Go to Auction.com
+06/06/2017	FRC-17-00839-1	3020 Pinewood Dr	Augusta	30906	Richmond	Not Available
+06/06/2017	BVC-17-01329-1	1040 Stoney Creek Ln	Austell	30168	Cobb	Not Available
+06/06/2017	DMI-17-00910-1	114 Red Oak Dr	Barnesville	30204	Lamar	Not Available
+06/06/2017	FREM-17-02498-1	174 Tharpe Rd	Barnesville	30204	Lamar	Go to realtybid.com
+06/06/2017	DBF-15-00389-8	1334 Spring Branch Road	Baxley	31513	Appling	Not Available
+06/06/2017	SPS-13-02844-9	369 Black Ankle Ln	Blue Ridge	30513	Fannin	Not Available
+06/06/2017	BAC-16-02843-2	54 Shelnutt Dr	Bremen	30110	Haralson	Go to Auction.com
+06/06/2017	SHP-17-01187-1	123 Laurel Grove Plantation Rd	Brunswick	31523	Glynn	Not Available
+06/06/2017	AMI-17-02096-1	338 Brentwood Cricle	Brunswick	31523	Glynn	Not Available
+06/06/2017	BSI-10-05112-19	2508 Ga Highway 26 East	Buena Vista	31803	Marion	Go to Auction.com
+06/06/2017	QKN-17-01553-1	60 Country Club Rd	Buena Vista	31803	Marion	Go to Auction.com
+06/06/2017	NAT-14-02883-8	1048 Sugar Valley Rd #b	Calhoun	30701	Gordon	Go to Xome.com
+06/06/2017	CMS-15-00436-7	120 Fieldcrest Dr Se	Calhoun	30701	Gordon	Go to hubzu.com
+06/06/2017	BVC-17-01278-1	142 Pinehill Dr Nw	Calhoun	30701	Gordon	Not Available
+06/06/2017	AMI-15-05970-15	108 Stargaze Ridge	Canton	30114	Cherokee	Not Available
+06/06/2017	BVC-16-00655-5	4351 Whiteleaf Way	Canton	30115	Cherokee	Go to Auction.com
+06/06/2017	SPS-15-05920-6	27 Heritage Cove	Cartersville	30121	Bartow	Not Available
+06/06/2017	SGM-16-07871-6	54 Quail Run	Cartersville	30120	Bartow	Not Available
+06/06/2017	BVC-17-00981-1	248 Candlewick Rd	Cleveland	30528	White	Not Available
+06/06/2017	SPS-17-02401-1	79 Tranquility Ln	Cleveland	30528	White	Not Available
+06/06/2017	AMI-17-01996-1	7345 Amhurst Terrace	College Park	30349	Fulton	Not Available
+06/06/2017	BAC-16-08026-1	1216 Woodburn Court	Columbus	31907	Muscogee	Go to Auction.com
+06/06/2017	SHP-17-02566-1	3500 Stratford Dr	Columbus	31906	Muscogee	Not Available
+06/06/2017	BAC-13-04071-6	3826 Hawaii Way	Columbus	31906	Muscogee	Go to Auction.com
+06/06/2017	AMI-16-06726-4	5592 Poydasheff Ct	Columbus	31907	Muscogee	Not Available
+06/06/2017	BSI-16-07277-1	1238 Wl Williams Rd	Commerce	30530	Jackson	Go to Auction.com
+06/06/2017	SPS-17-01570-1	1314 White Oak Court Se	Conyers	30013	Rockdale	Not Available
+06/06/2017	BVC-16-01563-12	1640 Callaway Loop	Conyers	30012	Rockdale	Go to Auction.com
+06/06/2017	SPL-16-01496-6	3857 Pointers Way Sw	Conyers	30094	Rockdale	Not Available
+06/06/2017	BVC-17-00790-1	169 Pinewood Ln	Cornelia	30531	Habersham	Not Available
+06/06/2017	PNY-17-01917-1	111 Benton Rd	Covington	30014	Newton	Not Available
+06/06/2017	PNY-17-02650-1	115 Kendall Ln	Covington	30014	Newton	Go to Auction.com
+06/06/2017	PNY-17-01241-1	125 Syracuse Ln	Covington	30016	Newton	Go to Auction.com
+06/06/2017	FRC-16-05678-4	130 Dearing Woods Way	Covington	30014	Newton	Not Available
+06/06/2017	SPS-08-03413-19	160 Mills Landing	Covington	30016	Newton	Not Available
+06/06/2017	SHP-16-04639-2	250 Upper River Rd	Covington	30016	Newton	Not Available
+06/06/2017	CBN-17-01814-1	35 Craig Way	Covington	30016	Newton	Not Available
+06/06/2017	BAC-16-03670-2	50 Mildred Lane	Covington	30016	Newton	Go to Auction.com
+06/06/2017	NAT-17-00841-1	2215 Pilgrim Mill Way	Cumming	30041	Forsyth	Go to Xome.com
+06/06/2017	REG-17-02552-1	2655 Preston Ridge Ln	Dacula	30019	Gwinnett	Bid Not Available
+06/06/2017	PNY-17-01920-1	415 Lakota Trace St	Dacula	30019	Gwinnett	Not Available
+06/06/2017	QKN-17-01474-1	389 Winters Mountain Rd	Dahlonega	30533	Lumpkin	Not Available
+06/06/2017	FREM-16-03667-3	540 Homer Edge Cir	Dahlonega	30533	Lumpkin	Go to realtybid.com
+06/06/2017	SPS-17-00548-1	499 Woodland St	Dallas	30157	Paulding	Not Available
+06/06/2017	NAT-15-04016-8	3409 Green Sims Drive	Dalton	30721	Whitfield	Go to Auction.com
+06/06/2017	NAT-16-07488-5	400 West Fourth Street	Darien	31305	McIntosh	Go to Auction.com
+06/06/2017	PUF-16-04952-5	161 River Mill Ln	Dawsonville	30534	Dawson	Go to Auction.com
+06/06/2017	QKN-17-02038-1	77 Tucker Ave	Dawsonville	30534	Dawson	Not Available
+06/06/2017	NAT-15-00548-3	1416 Columbia Drive	Decatur	30032	DeKalb	Go to Xome.com
+06/06/2017	SHP-14-05411-4	2442 Corner Shoals Dr	Decatur	30034	DeKalb	Not Available
+06/06/2017	BVC-16-00950-4	2575 Autumn Lake Ln	Decatur	30034	DeKalb	Not Available
+06/06/2017	BAC-14-06909-5	3237 Deer Pause Ln	Decatur	30034	DeKalb	Go to Auction.com
+06/06/2017	SPS-15-06460-5	3412 Kingsbrooke Way	Decatur	30034	DeKalb	Not Available
+06/06/2017	CMS-16-01311-6	122 North Woodland Drive	Doraville	30340	Gwinnett	Go to Auction.com
+06/06/2017	BVC-16-06951-2	201 Triplet Trail	Douglasville	30134	Paulding	Go to Auction.com
+06/06/2017	BVC-17-01811-1	208 Halehaven Dr	Douglasville	30134	Paulding	Not Available
+06/06/2017	BVC-17-01628-1	4382 Warmstone Path	Douglasville	30135	Douglas	Not Available
+06/06/2017	SHP-12-02991-5	4606 Bellemeade Drive	Douglasville	30135	Douglas	Not Available
+06/06/2017	BAC-17-01664-1	7147 Crystal Creek Place	Douglasville	30134	Douglas	Go to Auction.com
+06/06/2017	SPS-14-04629-8	2570 Woodside Drive	Duluth	30096	Gwinnett	Not Available
+06/06/2017	FAY-14-03164-5	3294 Benthollow Lane	Duluth	30096	Gwinnett	Go to Auction.com
+06/06/2017	BVC-17-01182-1	3955 Bridlewood Dr	Duluth	30096	Gwinnett	Go to Auction.com
+06/06/2017	FREM-16-01233-9	608 Kaitlyn Court East	East Dublin	31027	Laurens	Go to realtybid.com
+06/06/2017	NAT-17-01677-1	2479 Bayard St.	East Point	30344	Fulton	Go to Auction.com
+06/06/2017	PCLLC-10-07640-21	1750 Dees Dr	Ellenwood	30294	DeKalb	Not Available
+06/06/2017	SPS-16-08402-2	3239 Rockmill Dr	Ellenwood	30294	DeKalb	Not Available
+06/06/2017	BAC-10-02902-21	3940 Compton Pointe	Ellenwood	30294	DeKalb	Go to Auction.com
+06/06/2017	SPS-17-01541-1	38e Ridge Ln	Ellijay	30540	Gilmer	Go to Auction.com
+06/06/2017	BAC-17-01705-1	767 Florigen Lane	Fairburn	30213	Fulton	Go to Auction.com
+06/06/2017	BVC-10-11946-9	860 Fellowship Road	Fairburn	30213	Fulton	Not Available
+06/06/2017	SPS-13-05841-12	12100 Olmstead Drive	Fayetteville	30215	Clayton	Not Available
+06/06/2017	BVC-16-04278-5	230 Huiet Drive	Fayetteville	30215	Fayette	Not Available
+06/06/2017	SPS-15-03534-3	280 Fairfield Cir	Fayetteville	30214	Fayette	Not Available
+06/06/2017	BSI-14-01610-8	5055 Hartford Place	Flowery Branch	30542	Hall	Not Available
+06/06/2017	SPS-10-02194-15	2990 Joshua Tree Lane	Gainesville	30507	Hall	Not Available
+06/06/2017	SPS-15-00003-10	559 Homer Roberts Rd	Gray	31032	Jones	Not Available
+06/06/2017	PNY-17-00170-1	576 Creekside Dr	Gray	31032	Jones	Go to Auction.com
+06/06/2017	BAC-17-01858-1	101 Brownsmill Drive	Grayson	30017	Gwinnett	Not Available
+06/06/2017	SPS-16-00370-6	1204 Haynes Club Way	Grayson	30017	Gwinnett	Not Available
+06/06/2017	BVC-14-07088-3	1021 Meriwether St	Griffin	30224	Spalding	Not Available
+06/06/2017	BVC-17-01627-1	1603 Pinebrook Dr	Griffin	30224	Spalding	Not Available
+06/06/2017	SPS-14-07504-5	1624 Morgan Dr	Griffin	30223	Spalding	Not Available
+06/06/2017	SPS-17-02435-1	734 New Hope Dr	Hampton	30228	Clayton	Go to Auction.com
+06/06/2017	REG-14-01870-7	9 W Main St	Hampton	30228	Henry	Bid Not Available
+06/06/2017	PNY-17-02063-1	169 Swann Lake Road	Hazlehurst	31539	Jeff Davis	Not Available
+06/06/2017	PNY-17-02373-1	36 Saddle Drive	Hazlehurst	31539	Jeff Davis	Not Available
+06/06/2017	LNC-16-05612-1	115 Eighth Street	Helena	31037	Telfair	Go to Auction.com
+06/06/2017	FREM-16-05271-3	604 Hampton St	Hinesville	31313	Liberty	Go to realtybid.com
+06/06/2017	BAC-15-05821-8	900 Pintail Court	Hinesville	31313	Liberty	Go to Auction.com
+06/06/2017	TMS-17-01997-1	21 Emerald Creek Ct	Jasper	30143	Pickens	Not Available
+06/06/2017	DMI-17-01234-1	101 Psalms Dr	Jefferson	30549	Jackson	Not Available
+06/06/2017	SBC-17-00526-1	8587 River Rd	Jesup	31546	Wayne	Not Available
+06/06/2017	BAC-16-04231-5	678 Fieldgreen Drive	Jonesboro	30238	Clayton	Go to Auction.com
+06/06/2017	PNY-17-01342-1	7510 Lerose Dr	Jonesboro	30236	Clayton	Not Available
+06/06/2017	BVC-16-01979-10	7854 Waterwheel Way	Jonesboro	30238	Clayton	Go to Auction.com
+06/06/2017	SHP-17-01979-1	8119 Flamingo Drive	Jonesboro	30238	Clayton	Not Available
+06/06/2017	BVC-11-12551-6	104 Spinnaker Cir	Kingsland	31548	Camden	Not Available
+06/06/2017	BVC-17-02313-1	88 E Reed Rd	La Fayette	30728	Walker	Not Available
+06/06/2017	PUF-17-01477-1	1134 Johnson Cir	Lawrenceville	30046	Gwinnett	Go to Auction.com
+06/06/2017	BVC-17-01016-1	1348 Jameson Ln	Lawrenceville	30043	Gwinnett	Not Available
+06/06/2017	PNY-17-02111-1	1518 Whisperwood Ln	Lawrenceville	30043	Gwinnett	Go to Auction.com
+06/06/2017	SPS-15-01551-11	1867 Miramonte Way	Lawrenceville	30045	Gwinnett	Not Available
+06/06/2017	SHP-16-02524-3	2479 Morning Dew Place	Lawrenceville	30044	Gwinnett	Not Available
+06/06/2017	BVC-16-03704-4	3100 Linden Dr	Lawrenceville	30044	Gwinnett	Go to Auction.com
+06/06/2017	PNY-17-02030-1	852 Steeple Chase Drive	Lawrenceville	30044	Gwinnett	Go to Auction.com
+06/06/2017	SPS-13-01884-13	1740 Killian Hill Road Sw	Lilburn	30047	Gwinnett	Go to Auction.com
+06/06/2017	MTB-15-03522-3	2696 Alix Way	Lithia Springs	30122	Douglas	Not Available
+06/06/2017	TMS-16-00965-13	2022 Poplar Falls Ave	Lithonia	30058	DeKalb	Not Available
+06/06/2017	PNY-17-02103-1	2941 Stonecrest Ln	Lithonia	30038	DeKalb	Go to Auction.com
+06/06/2017	BVC-15-03824-6	3412 Hunters Pace Drive	Lithonia	30038	DeKalb	Not Available
+06/06/2017	SHP-09-02499-5	4655 Mossey Drive	Lithonia	30038	DeKalb	Not Available
+06/06/2017	DMI-17-01281-2	4835 Ronoelay Ct	Lithonia	30038	DeKalb	Not Available
+06/06/2017	SHP-12-11487-4	4879 Ardsley Dr	Lithonia	30038	DeKalb	Not Available
+06/06/2017	DMI-17-02132-1	5577 Down Way	Lithonia	30058	DeKalb	Not Available
+06/06/2017	SHP-14-01387-8	6091 Windy Ridge Trail	Lithonia	30058	DeKalb	Not Available
+06/06/2017	LNC-17-01840-4	113 Court Xing	Locust Grove	30248	Spalding	Go to Auction.com
+06/06/2017	CMS-16-05821-3	607 Charity Ln Sw	Mableton	30126-5000	Cobb	Not Available
+06/06/2017	BVC-17-01183-1	1666 Madden Ave	Macon	31204	Bibb	Go to Auction.com
+06/06/2017	BVC-16-06738-2	1897 Springwood Dr	Macon	31211	Bibb	Go to Auction.com
+06/06/2017	BSI-16-07309-1	2027 Greentree Pkwy	Macon	31220	Bibb	Not Available
+06/06/2017	LNC-16-04776-4	212 Walnut Ridge Dr	Macon	31211	Jones	Go to Auction.com
+06/06/2017	PNY-17-02097-1	1027 Malibu Drive	Marietta	30066	Cobb	Go to Auction.com
+06/06/2017	PUF-17-02176-1	2128 Summer Wind Dr Sw	Marietta	30060	Cobb	Go to Auction.com
+06/06/2017	BVC-11-07429-3	2803 Brisbane Court	Marietta	30062	Cobb	Not Available
+06/06/2017	BAC-17-01975-1	226 Meadowbrook Drive	Mcdonough	30253	Henry	Go to Auction.com
+06/06/2017	PUF-17-00285-1	941 Thompson Rd	Meansville	30256	Upson	Go to Auction.com
+06/06/2017	LNC-17-00653-1	28076 Saint Mathews Church	Metter	30439	Candler	Not Available
+06/06/2017	QKN-17-01801-1	3237 River Forest Rd	Monroe	30655	Walton	Go to Auction.com
+06/06/2017	SPS-14-05960-5	3590 Luther Adams Rd Nw	Monroe	30656	Walton	Not Available
+06/06/2017	SHP-16-06459-2	832 Pleasant Gap Drive	Morganton	30560	Fannin	Not Available
+06/06/2017	BVC-17-01564-1	464 Springwater Chase	Newnan	30265	Coweta	Go to Auction.com
+06/06/2017	SPS-17-01929-1	56 Hudgens Road	Newnan	30265	Coweta	Not Available
+06/06/2017	BAC-12-03926-16	1014 Brockdell Court	Norcross	30093	Gwinnett	Go to Auction.com
+06/06/2017	FAY-16-07535-2	3246 Highgate Chase Ct	Norcross	30092	Gwinnett	Go to Auction.com
+06/06/2017	BVC-16-03543-3	2259 Hwy 341	Perry	31069	Houston	Not Available
+06/06/2017	FREM-16-02055-3	121 Brooklyn Way	Pooler	31322	Chatham	Go to realtybid.com
+06/06/2017	PNY-16-07692-5	36 Rivermoor Ct	Pooler	31322	Chatham	Not Available
+06/06/2017	SPS-14-03178-13	2923 Villa Lake Drive	Powder Springs	30127	Cobb	Not Available
+06/06/2017	PNY-17-02662-1	5309 Paddington Ln	Powder Springs	30127	Cobb	Go to Auction.com
+06/06/2017	SPS-11-06356-7	5687 Jubilant Drive	Rex	30273	Clayton	Not Available
+06/06/2017	SHP-17-01607-2	6672 Setter Dr	Riverdale	30296	Clayton	Not Available
+06/06/2017	SHP-16-02881-4	7039 Chimney Ridge Dr	Riverdale	30296	Clayton	Not Available
+06/06/2017	BVC-16-08472-1	1785 Zenith Mill Rd	Roberta	31078	Crawford	Not Available
+06/06/2017	QKN-17-01683-1	58 Oak Run	Rock Spring	30739	Walker	Go to Auction.com
+06/06/2017	TMS-17-02523-1	236 Old Calhoun Rd	Rome	30161	Floyd	Not Available
+06/06/2017	REG-17-01597-1	193 Midway Ave	Rossville	30741	Catoosa	Bid Not Available
+06/06/2017	AMI-12-01855-11	267 Glenn Wade Drive	Rossville	30741	Walker	Not Available
+06/06/2017	DMI-17-01735-1	100 Ashton Ct	Roswell	30076	Fulton	Not Available
+06/06/2017	BAC-17-00455-1	2 Reese Way	Savannah	31419	Chatham	Go to Auction.com
+06/06/2017	BVC-16-06715-1	2604 Nottingham Dr	Savannah	31406	Chatham	Go to Auction.com
+06/06/2017	BVC-17-01225-1	645 E 37th St	Savannah	31401	Chatham	Go to Auction.com
+06/06/2017	BVC-11-13994-4	3096 North Ave	Scottdale	30079	DeKalb	Not Available
+06/06/2017	SPS-17-00744-1	1109 Lake Dr	Snellville	30039	DeKalb	Not Available
+06/06/2017	SHP-17-01963-1	3321 Eastwood Trl	Snellville	30078	Gwinnett	Not Available
+06/06/2017	SPS-11-13884-10	4165 Bridlegate Way	Snellville	30039	Gwinnett	Not Available
+06/06/2017	AMI-17-01577-1	2025 Pinemount Boulevard	Statesboro	30461	Bulloch	Not Available
+06/06/2017	SPS-17-00095-1	125 Cactus Lane E	Stockbridge	30281	Henry	Not Available
+06/06/2017	BMT-14-01421-10	393 Young James Circle	Stockbridge	30281	Henry	Go to Auction.com
+06/06/2017	SPS-11-07870-7	1161 Carriage Trace Circle	Stone Mountain	30087	DeKalb	Not Available
+06/06/2017	BAC-16-03502-1	4865 Hairston Park Sq	Stone Mountain	30083	DeKalb	Not Available
+06/06/2017	SHP-17-01605-1	7429 Waters Edge Dr	Stone Mountain	30087	DeKalb	Not Available
+06/06/2017	BSI-16-05276-3	5235 Creek Lane	Sugar Hill	30518	Gwinnett	Go to Auction.com
+06/06/2017	SPS-16-01319-4	1081 Scales Rd	Suwanee	30024	Gwinnett	Not Available
+06/06/2017	BSI-16-04049-1	85 Taylors Gin Rd	Temple	30179	Carroll	Not Available
+06/06/2017	MTB-16-05736-1	5420 Oakley Commons Blvd	Union City	30291	Fulton	Not Available
+06/06/2017	BAC-17-00916-1	141 Saddlehorn Dr	Warner Robins	31088	Houston	Go to Auction.com
+06/06/2017	BVC-16-07655-1	286 E Main St	Warwick	31796	Worth	Not Available
+06/06/2017	BVC-16-05239-5	1603 Windsor Dr	Waycross	31501	Ware	Not Available
+06/06/2017	NAT-17-01465-1	2585 Wadley Rd	Waycross	31503	Ware	Go to Auction.com
+06/06/2017	BVC-16-01908-2	162 Azalea Dr	Winder	30680	Barrow	Not Available
+06/06/2017	BVC-17-01646-1	702 Melinda Dr	Winder	30680	Barrow	Not Available
+06/06/2017	SPS-13-01232-28	1903 Brittania Circle	Woodstock	30188	Cherokee	Not Available
+06/06/2017	SPS-14-02546-23	401 Lima Court	Woodstock	30188	Cherokee	Not Available
+07/05/2017	SPS-15-04001-5	1507 Henri Avenue	Albany	31705	Dougherty	Not Available
+07/05/2017	PNY-17-02816-1	1605 3rd Ave	Albany	31707	Dougherty	Go to Auction.com
+07/05/2017	PNY-17-02585-1	503 16th Ave	Albany	31701	Dougherty	Go to Auction.com
+07/05/2017	SPS-09-33623-16	115 Parkside Close	Alpharetta	30022	Fulton	Not Available
+07/05/2017	BVC-15-01192-3	375 Albany Annex Rd	Americus	31719	Sumter	Not Available
+07/05/2017	AMI-17-01668-3	155 Summerwood Place	Athens	30601	Clarke	Not Available
+07/05/2017	SPS-15-00506-7	395 Millstone Circle	Athens	30605	Clarke	Not Available
+07/05/2017	BAC-16-04384-2	160 Stewart Drive Northeast	Atlanta	30342-0000	Fulton	Go to Auction.com
+07/05/2017	PNY-17-02691-1	2005 Chicago Ave Nw	Atlanta	30314	Fulton	Go to Auction.com
+07/05/2017	SPS-11-10909-14	3471 Benjamin E Mays Dr	Atlanta	30311	Fulton	Not Available
+07/05/2017	CMS-15-05527-9	945 Faith Avenue	Atlanta	30316	Fulton	Not Available
+07/05/2017	SPS-12-12262-9	3550 Mutimer Drive	Augusta	30906	Richmond	Not Available
+07/05/2017	RMU-16-00347-7	4421 Goshen Lake Dr S	Augusta	30906	Richmond	Not Available
+07/05/2017	SPS-16-00741-5	213 Montana Way	Canton	30114	Cherokee	Not Available
+07/05/2017	BSI-16-07116-1	476 Ridgeview Cir	Chatsworth	30705	Murray	Go to Auction.com
+07/05/2017	SPS-17-00742-1	6378 Shoal Creek Rd	Clermont	30527	Hall	Not Available
+07/05/2017	BAC-16-03501-6	1835 Roble Dr	College Park	30349	Clayton	Go to Auction.com
+07/05/2017	SPS-17-00204-1	2541 Mound Dr	Columbus	31909	Muscogee	Not Available
+07/05/2017	PNY-17-02033-1	459 Mccartha Dr	Columbus	31907	Muscogee	Go to Auction.com
+07/05/2017	BAC-16-07398-1	143 Buckeye Point	Commerce	30530	Banks	Go to Auction.com
+07/05/2017	SPS-11-04795-22	1341 Oxford Drive Se	Conyers	30013	Rockdale	Not Available
+07/05/2017	SPS-11-02171-9	268 Crystal Creek Ln.	Dallas	30157	Paulding	Not Available
+07/05/2017	SPS-17-01647-1	2737 Snapfinger Manor	Decatur	30035	DeKalb	Not Available
+07/05/2017	BVC-17-02501-1	3009 Kenville Lane	Decatur	30034	DeKalb	Go to Auction.com
+07/05/2017	DMI-14-00011-25	3580 Idel Creek Drive	Decatur	30034	DeKalb	Not Available
+07/05/2017	AMI-16-02081-4	3983 Spanish Oak Dr	Doraville	30340	DeKalb	Go to Auction.com
+07/05/2017	BVC-16-03864-2	2160 Washington Dr	Douglasville	30135	Douglas	Go to Auction.com
+07/05/2017	PNY-16-01135-10	2245 Telluride Drive	Douglasville	30135	Douglas	Go to Auction.com
+07/05/2017	BVC-16-01849-2	4661 Glider Cir	Douglasville	30135	Douglas	Go to Auction.com
+07/05/2017	SHP-16-07982-3	2113 Executive Drive	Duluth	30096	Gwinnett	Go to Auction.com
+07/05/2017	LNC-17-01874-1	113 Tanglewood Rd Sw	Eatonton	31024	Putnam	Not Available
+07/05/2017	LNC-17-02569-1	3609 Windmill Rd	Ellenwood	30294	DeKalb	Go to Auction.com
+07/05/2017	SPS-17-02747-1	7375 Jumpers Trl	Fairburn	30213	Fulton	Not Available
+07/05/2017	SPS-16-08065-3	9345 Rivertown Road	Fairburn	30213	Fulton	Not Available
+07/05/2017	LNC-16-05140-1	331 Hudson Road	Fitzgerald	31750	Ben Hill	Go to Auction.com
+07/05/2017	BVC-16-01588-3	1990 Lakewood Trace	Grayson	30017	Gwinnett	Go to Auction.com
+07/05/2017	BVC-17-00786-1	1141 Minter Rd	Griffin	30223	Spalding	Not Available
+07/05/2017	SPS-17-02783-1	208 Hillandale Drive	Griffin	30224	Spalding	Not Available
+07/05/2017	SPS-16-00075-6	10849 Folsom Road	Hampton	30228	Clayton	Not Available
+07/05/2017	MTB-17-00737-1	10851 Southshore Ct	Hampton	30228	Clayton	Go to Auction.com
+07/05/2017	PUF-17-02178-1	272 Athens St	Hartwell	30643	Hart	Not Available
+07/05/2017	SPS-11-02606-20	4115 Pinnacle Way	Hephzibah	30815	Richmond	Not Available
+07/05/2017	PNY-16-07151-3	2632 Cove Dr Aka 258 Cove Drive	Hiram	30141	Paulding	Not Available
+07/05/2017	SPS-10-03415-12	1133 Meadowview Drive	Jackson	30233	Butts	Not Available
+07/05/2017	SPS-12-00400-11	10485 Ace Court	Jonesboro	30238	Clayton	Not Available
+07/05/2017	PNY-14-00992-7	2517 Willenhall Way	Lithonia	30058	DeKalb	Go to Auction.com
+07/05/2017	BMT-16-07946-1	2609 Wellington Walk Pl	Lithonia	30058	DeKalb	Go to Auction.com
+07/05/2017	FREM-17-02657-1	426 Mancey Garrason Loop	Ludowici	31316	Long	Go to realtybid.com
+07/05/2017	SPS-16-05004-4	139 Buckeye Loop S	Midland	31820	Harris	Not Available
+07/05/2017	PUF-17-02185-1	201 Steeple Court	Perry	31069	Houston	Not Available
+07/05/2017	PUF-16-00624-8	204 Christopher Luke Circle	Perry	31069	Houston	Not Available
+07/05/2017	SPS-17-01950-1	135 Moore Ave	Pooler	31322	Chatham	Not Available
+07/05/2017	DMI-17-01797-1	212 Oxford Cir	Rincon	31326	Effingham	Not Available
+07/05/2017	PNY-17-02723-1	181 Benton Dr	Ringgold	30736	Catoosa	Go to Auction.com
+07/05/2017	SPS-11-11982-6	535 Prospect Rd	Rockmart	30153	Polk	Not Available
+07/05/2017	SPS-17-02752-1	4310 Liberty Pkwy	Savannah	31405	Chatham	Not Available
+07/05/2017	SPS-14-04464-11	1417 Poplar Pointe Se	Smyrna	30082	Cobb	Not Available
+07/05/2017	PRV-11-09276-21	656 Fairgreen Trail	Stockbridge	30281	Henry	Go to Auction.com
+07/05/2017	LNC-17-02500-1	228 Coddington Ct	Suwanee	30024	Gwinnett	Go to Auction.com
+07/05/2017	BVC-17-02749-1	554 Ravenwood Dr	Thomson	30824	McDuffie	Not Available
